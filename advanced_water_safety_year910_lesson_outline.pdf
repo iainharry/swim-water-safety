@@ -1,181 +1,1495 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R /F3 4 0 R /F4 6 0 R
+/Producer (pypdf)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 6
+/Kids [ 4 0 R 12 0 R 15 0 R 17 0 R 20 0 R 23 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/BaseFont /Courier /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F2 8 0 R
+/F2-0 9 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Contents 15 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/Length 3355
 >>
+stream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.039216 .117647 .239216 rg
+n 0 0 595.2756 841.8898 re f*
+.117647 .533333 .898039 rg
+n 0 0 595.2756 5 re f*
+1 1 .094118 rg
+n
+50.18898 694.4882 m
+174.189 694.4882 l
+175.2946 694.4882 176.189 695.3826 176.189 696.4882 c
+176.189 705.4882 l
+176.189 706.5938 175.2946 707.4882 174.189 707.4882 c
+50.18898 707.4882 l
+49.08338 707.4882 48.18898 706.5938 48.18898 705.4882 c
+48.18898 696.4882 l
+48.18898 695.3826 49.08338 694.4882 50.18898 694.4882 c
+h
+f*
+BT /F2 7 Tf 8.4 TL ET
+.666667 .8 .933333 rg
+BT 1 0 0 1 56.18898 715.748 Tm (STUDENT LESSON OUTLINE) Tj T* ET
+1 1 1 rg
+BT /F2 34 Tf 40.8 TL ET
+BT 1 0 0 1 48.18898 649.1339 Tm (ADVANCED WATER) Tj T* ET
+.564706 .792157 .976471 rg
+BT 1 0 0 1 48.18898 611.1339 Tm (SAFETY) Tj T* ET
+.117647 .533333 .898039 RG
+1.5 w
+n 48.18898 584.126 m 547.0866 584.126 l S
+.666667 .8 .933333 rg
+BT /F1 9.5 Tf 11.4 TL ET
+BT 1 0 0 1 48.18898 555.7795 Tm (Student Lesson Outline  |  Year 9-10  |  Victorian Curriculum F-10 Version 2.0) Tj T* ET
+.533333 .6 .666667 rg
+BT /F1 8.5 Tf 10.2 TL ET
+BT 1 0 0 1 48.18898 516.0945 Tm (6-lesson unit overview with learning intentions,) Tj T* ET
+BT 1 0 0 1 48.18898 505.0945 Tm (success criteria, key vocabulary, and) Tj T* ET
+BT 1 0 0 1 48.18898 494.0945 Tm (end-of-lesson reflection prompts for each lesson.) Tj T* ET
+1 1 .062745 rg
+n
+51.18898 436.2441 m
+260.622 436.2441 l
+262.2804 436.2441 263.622 437.5857 263.622 439.2441 c
+263.622 470.0945 l
+263.622 471.7529 262.2804 473.0945 260.622 473.0945 c
+51.18898 473.0945 l
+49.53058 473.0945 48.18898 471.7529 48.18898 470.0945 c
+48.18898 439.2441 l
+48.18898 437.5857 49.53058 436.2441 51.18898 436.2441 c
+h
+f*
+BT /F2 6 Tf 7.2 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 53.18898 460.3386 Tm (STUDENT NAME) Tj T* ET
+.266667 .266667 .266667 RG
+.4 w
+n 53.18898 446.1654 m 258.622 446.1654 l S
+1 1 .062745 rg
+n
+277.9606 436.2441 m
+362.6693 436.2441 l
+364.3277 436.2441 365.6693 437.5857 365.6693 439.2441 c
+365.6693 470.0945 l
+365.6693 471.7529 364.3277 473.0945 362.6693 473.0945 c
+277.9606 473.0945 l
+276.3022 473.0945 274.9606 471.7529 274.9606 470.0945 c
+274.9606 439.2441 l
+274.9606 437.5857 276.3022 436.2441 277.9606 436.2441 c
+h
+f*
+BT /F2 6 Tf 7.2 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 279.9606 460.3386 Tm (CLASS) Tj T* ET
+.266667 .266667 .266667 RG
+.4 w
+n 279.9606 446.1654 m 360.6693 446.1654 l S
+1 1 .062745 rg
+n
+380.0079 436.2441 m
+493.063 436.2441 l
+494.7214 436.2441 496.063 437.5857 496.063 439.2441 c
+496.063 470.0945 l
+496.063 471.7529 494.7214 473.0945 493.063 473.0945 c
+380.0079 473.0945 l
+378.3495 473.0945 377.0079 471.7529 377.0079 470.0945 c
+377.0079 439.2441 l
+377.0079 437.5857 378.3495 436.2441 380.0079 436.2441 c
+h
+f*
+BT /F2 6 Tf 7.2 TL ET
+.533333 .533333 .533333 rg
+BT 1 0 0 1 382.0079 460.3386 Tm (TEACHER) Tj T* ET
+.266667 .266667 .266667 RG
+.4 w
+n 382.0079 446.1654 m 491.063 446.1654 l S
+.039216 .082353 .12549 rg
+n 0 0 595.2756 20 re f*
+BT /F3 6.5 Tf 7.8 TL ET
+.4 .466667 .533333 rg
+BT 1 0 0 1 77.2878 6 Tm (Victorian Curriculum F-10 Version 2.0  |  HPE Year 9-10  |  VCHPEP143  VCHPEP144  VCHPEP147  VCHPEP148  VCHPEM162) Tj T* ET
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+0.133 0.2 0.267 rg
+n
+395.1 2.89 44 11.3 re
+f*
+0.4 0.466667 0.533333 rg
+BT
+/F2-0 6.5 Tf
+7.8 TL
+ET
+BT
+1 0 0 1 397.1 4.89 Tm
+(VCHPEP145) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 6 0 obj
 <<
-/BaseFont /ZapfDingbats /Name /F4 /Subtype /Type1 /Type /Font
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 7 0 obj
 <<
-/Contents 16 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 8 0 obj
 <<
-/Contents 17 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Contents 18 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 10 0 obj
 <<
-/Contents 19 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Contents 20 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 14 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/BaseFont /ZapfDingbats
+/Name /F4
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/PageMode /UseNone /Pages 14 0 R /Type /Catalog
+/Contents 13 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 13 0 obj
 <<
-/Author (Emilie Harrison) /CreationDate (D:20260509114816+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20260509114816+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Advanced Water Safety \204 Lesson Outline Year 9-10) /Trapped /False
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 2975
 >>
+stream
+Gb"/(D/\0"%fW&,_,!L;&Sj7M=2,a'38O"?Y0A<M'ZJmVQq1^kX^58GfPBDor/ie`89U^e0!^6bE%'FD)JVg*%j-rZ"t'=Xo%thtGVasoh_JRTbiZ\\_h$JU>g?*YSf#[^TuUR@s)N+Bj26E_(dS];i.eCCq5stHL/PhbLD/GQUn$5q!mbh"GM`\[c1*u5m;N,Za__+62Ji4EbM`#?H?]Afic5AJcY&S'E-qTXEqTh=AQ_4PekI^d)QlJ.'fgYTl86Td^aHrk#Udjo)pCL`m"\UP^"cQ_?->$o+CMhXYPCM82;%/D1X(Cdbgm.+>3i[HC:dO1i;\h^Cu<fm6/?(u*6el)-QHW[ok;f['%KF=n/O'LZ:pu>D)-?o0+<'!X:k/ZAXEJt!I/g:ft0W.8ZT62'q)lWH!(neSu0V7<.(7tMrE*qdh6@@`]E,7^]d*D%E].8nf-RVHdZU;p>+*"4`jG`&WBCF[$ZUiA%q.$?s)\t\UeHS3pJR/0;6=YI.&RFrB3qkpokOq3Y@i%h':Vo,@E,Q+0KC'HFDM/5A;*kQ!"SV+lYWV4d]=[/_WS%PVOgqkiL=%&i?H]53*OkH8eK0RC43(#cH+P@06*Cdf'OeT!a@1CdI,:'Q[s/=50I#9p2CClh_277ifTsAlrJTr<[e"Im:WZ\Xf;+T8mZqD;T<M_"eYN:Hsej"RHnh].-.qd;;QcC3>NRA!i:[@$)6!4GC9r2EBn5Pe7c3B>s-.Ef91M(5ja^X+alr`ALOt&LBQiZE^>sR3al>l\_L]V"t/EV-"u(;2SF4mCh0;#K/Yh3fF4>SE#en-Rgl`K2O!pHnO\jQEO>#_5!j*@%+0^%FlpOq'?!qPZrrhbmu&=3A.W?:PFln#iWh#;@,H;OMg)[/^'%j<pGBcYB2sT=)>q]9iO%t>!;$_K*n>Ni;79Z-5U#.>aEY[*EA5Yc?0HYfG*G6hCA`'HANW!#"\EnV#W%r?f58?)^05RMEI:=fX?<f.3.u]EjF1Nk@l4HdeUNb:/5W,@Zj^+#Oe=^0f8X(a:;jAo*Br5MiU9q"](9<d3sZ66Kg_Ef=N0Vel=ROX/_A^K$-#I)gZ8L_c!9!Q%%_6KAps2YD<gk:)."Jfnq"+-:=Rm#0q;&^TGEffKAOAQu6=^WanE3cur+NGpQoO]bET2QY:=Mj&9o'/fK:<k\_2N'(oD5.]PnN<)Z@I#g2MSoAUSaqt\2"""`gL(kL_:a<a;hL4SU)btf^A%3&SEZG&fTAI>n`mk@itGA`lP_1B\K7]Pkb(Zc+6bWJZI00QHkqT!I-;XgE'IF51s2HFZXCnFtYhQOAjfrhs$Bp`Y+<Xi$N>b>9^#(b<):tLm7e7f;h]KEKK@\;_p:r@j+>9\V@C(]N6nm[f?GTgCSAg[3kXl^um^0WT'2'MB9Sh6'EA21]7Ou1/[OK1RjT*.67DSRX$G1Em3dMTM.+W>9qV6?#e0Sa&-njR[*e!jQ$Ird>-"6;DBI^bdl]>Ye`Cf5iMA[2C&o;J8s<Q%tuCkic\MinAB8uK4nVZR$==+YpQ\tBC86;@=(d!8JtL./b8QBPna<Kgu6P;nsT(Q)>5`csOuD*%Kp(M+GO9II;D-^>Ya-QW'F7Fn5IB@.^%Qo_"4@7KWK2i;n4_oA7P#FO-/Y&Dsis$/iYT_MhsJFFIZ[VI+&6I59+rSDC/=M_3F%D(NXl$3En/D"hY_ni4"kh4'gG)1U[-*t4r5psaQOZ!IS0D%Vq]K(o/P]cMeln1Cuf31978*X8>q^;nOUY3'eX^O1=`bQPp6k!"/,ZO$D1m53)YXeR^ok;ea_D=T.>Wk@2Ggt-7VX$DSHUi4=LGcOU^o1]J&\,o(Xqr2])PM)[:AB5mhA)34F:'mfZD'R9m%12@"Wc:`lMQGQ(uI=?<$Qr^>siW:Om3\,A;:nb=HFb1lMEcAO"H4TGMn+&"ZL>i(u)Zk"?4Lj;]NY"/#jM4X]e0$^3tU%SuD;="Z8<3K?RecK@G'2/O1Ef.#Rd@!HHIoUh)o8dacb'$m"BtOSq:dhDS4V.Vp4>#6I8A(nAp\dfM0bY'@RLQ$_'Ya1'?#3EJfE5k*1Kb/5]A>;k&mA%fm6JO+YSe^'U\H(S,u<H:+"_?qeO1X.`)1pJ'-O`WP=[$aH*6q4^TSV/%?q-'#1JSC"TaG..@,h;-J;\koV_*@B@hHaJp1WT=cB]uOhc+]*$=OtY#K"#gG`VJ$u$?Y+"'Zai#;QfS71'ii-M_P4kO&a>B"^)2S''ZFQ'Z2(2]>'6C.p;CUHqj/KVu*tA$s,Do=+`Kb:WD@?$A3b3$k?j#4=?f9[(rOtWj/4mr*H2Oi+&rp_P6*ACnAfo;e+_8m9Lfh%C$F-Msd36aQ1"7l]DV6+fIVT??Fq!c4<q(iECks_8>"sH+d-P\eT:i>T?tfM#"GZ[St,!91RL9m]k.PAinLT+]XSh0Uul>JL>&%`u\26a$.4f*R=_\"mf<qKtAPgpIMCIp>lM#Z.qFsTm(#OcW?neIm(e6EZm+,aW08'kbI5;-=?;S/7b3j)`@<6l=VZR6Db2%MX!Z/Xib*QPTt&+YsTReY(IVk*$At"E!60oVafWXKtcNpdE!1&/DJPR#MXWE#X[u!5j5j##VYdo;TpNUGI&5C:ITAue[JilO-b>AokU'MJ<"n4H-2#P=^kgW:7V.f3cI`GC<Da!0Z<Qd0lW:Wa^SC'Eit=fDpQ"D?(Do^2.X?h2ZER][YHapIietTm\=\`T27nsbFZR;\4>0-&A$aof3Y'^hG14uhioYJTj4jB)L)+7\Y97h6VYUME'1'p65Z`f"=PgUbU+-W7RnWI?i1>NqHoeEm!`B3mXAU@LPV6Ya%?(%B,rN/OlP*hYqAD%X]FB[B,uU:i7V``>ush/\*Ch#LE&jG?Q2Rt_iKL>FkmiKU-.3;S(IP>4Oh1*N<6d\U:U$T,?+9WN$aOa.G)Z['c'N'6QQ^CJ),/VAq^pD7faB#rX3BoM0T~>
+endstream
 endobj
 14 0 obj
 <<
-/Count 6 /Kids [ 5 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R ] /Type /Pages
+/F1 6 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
 >>
 endobj
 15 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1314
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
 >>
-stream
-Gatm:gMYb8&:N_Cb[V==gV$r8<EX2H3-H2p%e?RHFMa?<;G+5,THE&oEGq/5U]hqC&p6#nHY2uqE#DK"ZbpF^#5G$LT._'9%eVt=8L2eeYc+V;.mesM9ES_IBPE"dl1atX)@j5,V[,4RK9_BtlR[uHgqTr=%8-C3&GupHT".^P4)fTje4I[H+f\G)YQLYD.*5X&l\ZR:TZ^/m&/%"&1PRE8+@UtF\cD@:d8U]5<+Vd0Bqh-%OI-J7O]dDM'8_mpK_:UPKN]N+9\L0qa9tC)Y(S*pI>NYo&pm7GZr0WkWPY)F2O9!cqeFTg'('&92\q4=[Kd2#Yq5Z:l)9Rj@\e^(%6lH1G8H2')Qjk!jio[<]W85b]3`.#qG4%sH<S(7/26m"L%NP\MT\]Z(+\II0H2@c(k.=p`U3#<^:8^fZ[2/MTI(#Z7+$_nh5=)[oB'LPZ83q>R<1I$>gsifZEIC%mB76L$6ITfM+Lk*E3/jRPVcKcXV94%o';S5mGsAQpCg2RInm%B=CU=?Uij/]CPNp8[G1(\J=HM?mtMV9++OmhC'8b+ki(-1fBbD*[i/Yg+31P;p\QgQqL<G<ESKHcSBrVe%(TgVKB=`7#,.:ND[C"/\*##9TD+PfrQsq>o?`L.?2Fngh<ksKW-%6XO3e=t9ErIPcO),IEaoV*md7`&O;s^ogU3F/)>r$6JVQt+qIAEd`\1u/)Xb=,.'X?s@6<88DsjC[Z+]V\`lit[j(A78[tX_(#jnY^dX;B]1,Ybo)s!Hb&rTBg9t6DrV\7UGB[/E`,K'nt<+_))&V:Eg(/:;"2aoQ'Jde42pBAKk;;=HL2I["cb=A3S<(?4.Q'@rA^iHt0H%F>`Q*DaE0<pU5Ard7j<pJpKdb]'mGqN7lkkf$MM+ELqit0^9B%-G>FZGQi&++Z7NLc(mko2e78Xt'08aLQ%lr;79q+a0E!B5`mNAIR'J\\D8g545`6;&LV3+G:U(_pde+NXs.b?cU$Y[<e]mV176h2o$V2fO/u$!OnEF,NoCC)N_5.q70@"W"eBfTZ80lLb87^l8_tV&SPuZfUb-fc]ls)[P>$LI-I=#JsqaW,\XEUr/A\-T:Gra`(;)",YA!.4B=8"Hj'(PWb,%fWp>o[<5_<4!:TJ%M6Vm+n<[<]n:YGU8#CXOrTRgm!o.qSkeXopEu7&!=lmY;'7G2:bQGP=&2U'ht96HarZY)9pI7]ONteoEhQ;Hj%;LZZK3n_D%?p[d*m'eU]V439OuNACj&o\DN0?!X8hh=59(2?]ic<s)!6Xf@8c/ZR4h:K[,LR5e%DX:mhJh%!m&faMu~>endstream
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
 endobj
 16 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2975
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1481
 >>
 stream
-Gb"/(D/\0"%fW&,_,!L;&Sj7M=2,a'38O"?Y0A<M'ZJmVQq1^kX^58GfPBDor/ie`89U^e0!^6bE%'FD)JVg*%j-rZ"t'=Xo%thtGVasoh_JRTbiZ\\_h$JU>g?*YSf#[^TuUR@s)N+Bj26E_(dS];i.eCCq5stHL/PhbLD/GQUn$5q!mbh"GM`\[c1*u5m;N,Za__+62Ji4EbM`#?H?]Afic5AJcY&S'E-qTXEqTh=AQ_4PekI^d)QlJ.'fgYTl86Td^aHrk#Udjo)pCL`m"\UP^"cQ_?->$o+CMhXYPCM82;%/D1X(Cdbgm.+>3i[HC:dO1i;\h^Cu<fm6/?(u*6el)-QHW[ok;f['%KF=n/O'LZ:pu>D)-?o0+<'!X:k/ZAXEJt!I/g:ft0W.8ZT62'q)lWH!(neSu0V7<.(7tMrE*qdh6@@`]E,7^]d*D%E].8nf-RVHdZU;p>+*"4`jG`&WBCF[$ZUiA%q.$?s)\t\UeHS3pJR/0;6=YI.&RFrB3qkpokOq3Y@i%h':Vo,@E,Q+0KC'HFDM/5A;*kQ!"SV+lYWV4d]=[/_WS%PVOgqkiL=%&i?H]53*OkH8eK0RC43(#cH+P@06*Cdf'OeT!a@1CdI,:'Q[s/=50I#9p2CClh_277ifTsAlrJTr<[e"Im:WZ\Xf;+T8mZqD;T<M_"eYN:Hsej"RHnh].-.qd;;QcC3>NRA!i:[@$)6!4GC9r2EBn5Pe7c3B>s-.Ef91M(5ja^X+alr`ALOt&LBQiZE^>sR3al>l\_L]V"t/EV-"u(;2SF4mCh0;#K/Yh3fF4>SE#en-Rgl`K2O!pHnO\jQEO>#_5!j*@%+0^%FlpOq'?!qPZrrhbmu&=3A.W?:PFln#iWh#;@,H;OMg)[/^'%j<pGBcYB2sT=)>q]9iO%t>!;$_K*n>Ni;79Z-5U#.>aEY[*EA5Yc?0HYfG*G6hCA`'HANW!#"\EnV#W%r?f58?)^05RMEI:=fX?<f.3.u]EjF1Nk@l4HdeUNb:/5W,@Zj^+#Oe=^0f8X(a:;jAo*Br5MiU9q"](9<d3sZ66Kg_Ef=N0Vel=ROX/_A^K$-#I)gZ8L_c!9!Q%%_6KAps2YD<gk:)."Jfnq"+-:=Rm#0q;&^TGEffKAOAQu6=^WanE3cur+NGpQoO]bET2QY:=Mj&9o'/fK:<k\_2N'(oD5.]PnN<)Z@I#g2MSoAUSaqt\2"""`gL(kL_:a<a;hL4SU)btf^A%3&SEZG&fTAI>n`mk@itGA`lP_1B\K7]Pkb(Zc+6bWJZI00QHkqT!I-;XgE'IF51s2HFZXCnFtYhQOAjfrhs$Bp`Y+<Xi$N>b>9^#(b<):tLm7e7f;h]KEKK@\;_p:r@j+>9\V@C(]N6nm[f?GTgCSAg[3kXl^um^0WT'2'MB9Sh6'EA21]7Ou1/[OK1RjT*.67DSRX$G1Em3dMTM.+W>9qV6?#e0Sa&-njR[*e!jQ$Ird>-"6;DBI^bdl]>Ye`Cf5iMA[2C&o;J8s<Q%tuCkic\MinAB8uK4nVZR$==+YpQ\tBC86;@=(d!8JtL./b8QBPna<Kgu6P;nsT(Q)>5`csOuD*%Kp(M+GO9II;D-^>Ya-QW'F7Fn5IB@.^%Qo_"4@7KWK2i;n4_oA7P#FO-/Y&Dsis$/iYT_MhsJFFIZ[VI+&6I59+rSDC/=M_3F%D(NXl$3En/D"hY_ni4"kh4'gG)1U[-*t4r5psaQOZ!IS0D%Vq]K(o/P]cMeln1Cuf31978*X8>q^;nOUY3'eX^O1=`bQPp6k!"/,ZO$D1m53)YXeR^ok;ea_D=T.>Wk@2Ggt-7VX$DSHUi4=LGcOU^o1]J&\,o(Xqr2])PM)[:AB5mhA)34F:'mfZD'R9m%12@"Wc:`lMQGQ(uI=?<$Qr^>siW:Om3\,A;:nb=HFb1lMEcAO"H4TGMn+&"ZL>i(u)Zk"?4Lj;]NY"/#jM4X]e0$^3tU%SuD;="Z8<3K?RecK@G'2/O1Ef.#Rd@!HHIoUh)o8dacb'$m"BtOSq:dhDS4V.Vp4>#6I8A(nAp\dfM0bY'@RLQ$_'Ya1'?#3EJfE5k*1Kb/5]A>;k&mA%fm6JO+YSe^'U\H(S,u<H:+"_?qeO1X.`)1pJ'-O`WP=[$aH*6q4^TSV/%?q-'#1JSC"TaG..@,h;-J;\koV_*@B@hHaJp1WT=cB]uOhc+]*$=OtY#K"#gG`VJ$u$?Y+"'Zai#;QfS71'ii-M_P4kO&a>B"^)2S''ZFQ'Z2(2]>'6C.p;CUHqj/KVu*tA$s,Do=+`Kb:WD@?$A3b3$k?j#4=?f9[(rOtWj/4mr*H2Oi+&rp_P6*ACnAfo;e+_8m9Lfh%C$F-Msd36aQ1"7l]DV6+fIVT??Fq!c4<q(iECks_8>"sH+d-P\eT:i>T?tfM#"GZ[St,!91RL9m]k.PAinLT+]XSh0Uul>JL>&%`u\26a$.4f*R=_\"mf<qKtAPgpIMCIp>lM#Z.qFsTm(#OcW?neIm(e6EZm+,aW08'kbI5;-=?;S/7b3j)`@<6l=VZR6Db2%MX!Z/Xib*QPTt&+YsTReY(IVk*$At"E!60oVafWXKtcNpdE!1&/DJPR#MXWE#X[u!5j5j##VYdo;TpNUGI&5C:ITAue[JilO-b>AokU'MJ<"n4H-2#P=^kgW:7V.f3cI`GC<Da!0Z<Qd0lW:Wa^SC'Eit=fDpQ"D?(Do^2.X?h2ZER][YHapIietTm\=\`T27nsbFZR;\4>0-&A$aof3Y'^hG14uhioYJTj4jB)L)+7\Y97h6VYUME'1'p65Z`f"=PgUbU+-W7RnWI?i1>NqHoeEm!`B3mXAU@LPV6Ya%?(%B,rN/OlP*hYqAD%X]FB[B,uU:i7V``>ush/\*Ch#LE&jG?Q2Rt_iKL>FkmiKU-.3;S(IP>4Oh1*N<6d\U:U$T,?+9WN$aOa.G)Z['c'N'6QQ^CJ),/VAq^pD7faB#rX3BoM0T~>endstream
+Gb!#[=``U]%"@rS^gjrcF2_'UhU8LS.rB?Pdb/@35YJJd<2Qr^m!,Bl^7ZapE]0954R=>u9Fq7ji55eSJqlRtrf!-ChbW1j)$S/j1'9"^JB9g1-\F&S69Q5:$4id)HslL+J-@2(_>n*p$1jtparr\tq_19V;!ZZO)(6]"Fe8f=EKnp1%M97URgD&%gjPSAiTT@Oc,jn%j%o0ba^fc&f-b4ka_1C,0d!RA.Q4_gF&Nd@L#8pd9rnBjCig0GLjIspj;''a>!MFochWo$&J5.fhuAD%)rNkP0-nI$A\i/g5VQ@b;3aci$@E1U\^.n#TPkXn%)WJ'1Pt'CHAq)8M97AF["ZsYc]b;"X!O:pJ`4W07=r'X_uocNi5^cG/fh>F/QO.>Q:+gI1=%j>9p:tooI@-;rmkiM-0h"^<MVLg%:\<(om1>_7%A@eo\+h\`(V[T::,*s$3Q?E%.G,g/tpH+V%Q0E8.bV)7W-c;c)^7!Z@k_ect".N[giMU[q4mEq4J)\6@C/-+KS^)AnVEqd3R2719AaOffb+clRIc';/hsOV8;cl*V+6sX5CF7Fe%(a@2n=7OOuuN[o#21]dQ+:M1*4&XlK=OnZfm/,1Pe7K9V.'N<[(HRV(h/p^&-tA8I,O:Sn?=Kn1YqEtafMkLnQ5^7[/e.Us\*<T07"4d[NG<&XQX3/4/r/fP',@BmAdmLqa:<9G2^c\aei/;NF6NtWOb7a"4\gfESd1:`h83o.M?i6Rlk`;]uUipS71aFL=0W?R;7ImqT[?)ePGptL0f[@LBZf@Gih'W')J=,YOc.p+1\!Ykhh'3ga!J@dq%.r5G=P.=;!$/-oY%89KQ'n`S;OYBH`Cs2'8?<;/KQ*skpGup9(D%,+rAo=\&9aoK-bMmB4I\hob>GuJ>:Ah=?]s9ujKeBW!U<LW5q-DSt7@gu8>=YN"pgT@c.:s,)Y5^3loZS%<gJ+l,Yi8O>7c[4Un2(("%Yu37/d7>%pmqnVV`eR,!EVJo#`!Ose^EDt$,R40-REW\.9neo*q!stlg:S$hskIOjT,D'2?7BeR2DJr>!(QcO8bHshsafh:[lG@QObPu75rCL;,f5NprA.1of<8c9gXMbo\CrA%_V25'>-9i"@%:`*DR2BNk/TA#&^_;:FjJj0+YYogNuFB2rjj2q0Td28G9U-Ps+'uIEe'ZC7-;#mN&WGogg%PEf)fL&RIW#e3)On@1,K<4_L<mq?RY;J6T8:f,gN0)[E%?IHtSYHAZ[\Sd(l&]Mic.0&`IS&<nY@*1oEY,2>L^oqA>@!(HF,:`S57Pg)\b?2i!j;H"7b1SA:IL!&q6;BE`c-"/aN`2FQ(3"TqsXeEt3^d4;i2`!6lkQ7hg+lP'CEfD;\#"dMG;mJVrLL;o?RMb4"$F`'gB9p3jI?F^*+$tORSPJg'?4C[r<Xfn_#HY'(fR5hsX'JN"]k1,[C)6J/ZUc,]*5/PFAZ(';m4$m?^u.GXLR=h~>
+endstream
 endobj
 17 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1481
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 19 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
 >>
-stream
-Gb!#[=``U]%"@rS^gjrcF2_'UhU8LS.rB?Pdb/@35YJJd<2Qr^m!,Bl^7ZapE]0954R=>u9Fq7ji55eSJqlRtrf!-ChbW1j)$S/j1'9"^JB9g1-\F&S69Q5:$4id)HslL+J-@2(_>n*p$1jtparr\tq_19V;!ZZO)(6]"Fe8f=EKnp1%M97URgD&%gjPSAiTT@Oc,jn%j%o0ba^fc&f-b4ka_1C,0d!RA.Q4_gF&Nd@L#8pd9rnBjCig0GLjIspj;''a>!MFochWo$&J5.fhuAD%)rNkP0-nI$A\i/g5VQ@b;3aci$@E1U\^.n#TPkXn%)WJ'1Pt'CHAq)8M97AF["ZsYc]b;"X!O:pJ`4W07=r'X_uocNi5^cG/fh>F/QO.>Q:+gI1=%j>9p:tooI@-;rmkiM-0h"^<MVLg%:\<(om1>_7%A@eo\+h\`(V[T::,*s$3Q?E%.G,g/tpH+V%Q0E8.bV)7W-c;c)^7!Z@k_ect".N[giMU[q4mEq4J)\6@C/-+KS^)AnVEqd3R2719AaOffb+clRIc';/hsOV8;cl*V+6sX5CF7Fe%(a@2n=7OOuuN[o#21]dQ+:M1*4&XlK=OnZfm/,1Pe7K9V.'N<[(HRV(h/p^&-tA8I,O:Sn?=Kn1YqEtafMkLnQ5^7[/e.Us\*<T07"4d[NG<&XQX3/4/r/fP',@BmAdmLqa:<9G2^c\aei/;NF6NtWOb7a"4\gfESd1:`h83o.M?i6Rlk`;]uUipS71aFL=0W?R;7ImqT[?)ePGptL0f[@LBZf@Gih'W')J=,YOc.p+1\!Ykhh'3ga!J@dq%.r5G=P.=;!$/-oY%89KQ'n`S;OYBH`Cs2'8?<;/KQ*skpGup9(D%,+rAo=\&9aoK-bMmB4I\hob>GuJ>:Ah=?]s9ujKeBW!U<LW5q-DSt7@gu8>=YN"pgT@c.:s,)Y5^3loZS%<gJ+l,Yi8O>7c[4Un2(("%Yu37/d7>%pmqnVV`eR,!EVJo#`!Ose^EDt$,R40-REW\.9neo*q!stlg:S$hskIOjT,D'2?7BeR2DJr>!(QcO8bHshsafh:[lG@QObPu75rCL;,f5NprA.1of<8c9gXMbo\CrA%_V25'>-9i"@%:`*DR2BNk/TA#&^_;:FjJj0+YYogNuFB2rjj2q0Td28G9U-Ps+'uIEe'ZC7-;#mN&WGogg%PEf)fL&RIW#e3)On@1,K<4_L<mq?RY;J6T8:f,gN0)[E%?IHtSYHAZ[\Sd(l&]Mic.0&`IS&<nY@*1oEY,2>L^oqA>@!(HF,:`S57Pg)\b?2i!j;H"7b1SA:IL!&q6;BE`c-"/aN`2FQ(3"TqsXeEt3^d4;i2`!6lkQ7hg+lP'CEfD;\#"dMG;mJVrLL;o?RMb4"$F`'gB9p3jI?F^*+$tORSPJg'?4C[r<Xfn_#HY'(fR5hsX'JN"]k1,[C)6J/ZUc,]*5/PFAZ(';m4$m?^u.GXLR=h~>endstream
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
 endobj
 18 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2640
+/Length 9700
 >>
 stream
-Gb"/)lZ:f='*%C7@R&Zs*Le?GnC900SKE&m4\famc?/@K!0`LuL*T`[PcC/Kj)4r^,tjQcF(UqV-BldZ(>.a:Dk@L?)ugK@Dk$k+Ert6+&0MHVVEh(K@<)\;PG:@'/7Oga-a<DG%nAW$%\:rR_^GX@ngl0XHlt$i%b'm,n2`7Fk&L]SbL<p*<nLZ;l_KYqL))MqKW]+$qM.WHU[d%)q!.ML$pKXukLXZ/^,Vb_#'Z(@^eIrX4>5ZV(PU)l6WL!-k5`8:VB@oCp,eZ>!L)sj55O<2ipSnA7Dk4goDclQ37,K9H^%qLZsYgrYY\Ng+fXcf&]H,?M&Wsq?BDW3BSte<rY(0/[IblrXb]WL"O#c2;G+l->%MZ(*t5V`'`rO:=>msE!WN&f]N9kk8W/9;bKOF\Gu\n(dSrnc_%n5E(iCp//oeqM>/ZA&\7+p'6Fq_OIR0Jd&icQ6$@PlKS7rfD,k,N@2&:m(m@K="S.K@e8;[Hj:@P+-h:(XY3leQh6I9WK+km:NWu&NVA(p/Y9fhVG[;84'p7&3c\&L!C[8Z8s,0Q%!aS'V'P/,.UQ#O%C@<=9S$DOPdo4aMuN=Agu7Vg7lF<b;3;E3\_=..-4?5=Z]E2M\O8(5;^-pFgP6o4jS6O8`rVQh_F:e/^77US.XIYad/!SS$'Mq.t\o)-jYnJO;-NES,_g9G<Z)s`pD"&4@9p)@>H)`\%HOTmI6rP#6\g8c\YQQ"\RVCiJN7O::],mFWsLdudU\H[gD-"5&^D".A@J`.EC/aH:9b?;D+36^Fr$=g_Y5W:/CV12s"!_')gfY#+dBl>LejO:KqH-B\WPE9J<(5?um>Ld.8PM/soT!)[rZl_1=Gp4"JWUMBJ?*&pHB-IQZf/uJ^ZjmFYM\^cY^OMnhL)?*#,=<C%?A-n34nJMW8,.AQ-Eq'`Ti8JcXe,3/?e_rC4*Iqm=P.e7-X-Hk_Ed,I7]Y\abA@MA>!m.%r/NIQ>S"Db5ql:JJQff1N)X8AY6<CF.ZQ63_5S(2eq38olEeHO0JOf=>0\KO:bS`ub,H6gjS]"/XtP`KQ[2'09m#B!,]Fb?r9-sa)i2t]_Nt4_&7b\Q\c<;j'sLTJ?;X$L;k,f7#0B?99\NUJ0NK*q1B&G;4GJXR4;Lk;RZ,9CQAZr>q\AsuLhFL@rZcJJn@)LC6XH.l/GT2;'U.oS6J_\.[%W,nHWq7G2!")680Wp(2-buIL*<R%EfO2cA(*+Q_;/dbonp[AM52pY5\-_ZhJGa%N?__BCEhos]Aq0b<FLj0nPij?-*1Y'[1DfbR!i;q4EDh3&p$t2-4SsqE?2G9@T8kHC/)$c$B'-UAI>]DdKE29RHkifYQi$&FZR6!lQ$AXDceE9#tm]i-`tZ\92VE>jg'3"C%#TLUaqSP;kB[5&*t!HZd\nqjYlAGpN;5,ZsdHZcu3c-Eo#[Y^9&]_G2;#r7u-6K3jH%nf5H;#\%[8UWpC8ab`s4Y&1@2>>Y-/GqUnVJL0>1@aU@amGaL/AAki"U?brk'fmT,@[<b;*pItT5d8ou^D9F&GNZW)<g!"c^$7tU5Xs'E1Q*o[tO6!RiV2e\Iai^X:R:2ILB>Bi+c`6[P>SL;FWe/8YpVCEWbHa`Ih)SBWjt%S?/&bGqUXX.r)`?O_)N>S,OLJ0LdEkC!L$ij:3c7Hl[jAkU*k]463-8kA4oN.R4jT<*3B_'\("[i%eeW]9`m0,phN`jckC8?Z#In4\LC[JL>:LkVoM']t*FAh?&u>t6SV/l6./!/]LPZ2,YQGI@V@G/cl83EC6:YsQpNY0a=0,_6+MfB9>R:5'k==US"EqP76F7?nr?6>k*q0%kO8/,Sp:gD:B5(-.FqkWm`:b:b8l'slhKJ*05sJ#Zk+F"cPYn0G85E;\$G\6H\FYuHB';lX1YX6322ATM9HtC54t=:F#7YWN.TZ*FJW7K1bkscWV(;DtWQaK5]7hhc^XLPI&>J@BO6kN<7+WS_fFWELdgR_bB9-d%Ju'49X=n&G]fD#-SEp7q7I2`(6?eu&q<AM/)k1jb=.1np`A3om"cVgm*[tZeYKN=d];pN2FcLB;OflFXZ&D<WbJUVp-TW:&km3k!bE0-*%!_k',Pl0.qMWX0\f&SYkV!I;aR&.D4'.l."b3Zoi?$;eb1SLmQKj$f0UMC2Y%?oJl";RG;iupB).WA',5ll7>2%o0LKB,,,H#L/H#kc*2@oTUk?<k6C7HH?p!IQ66`3Nl`Gmh(duggQUWFJb;r&8$X@$38@4W#>.9G5@"#GU[l]DO+[c5>(:GuBQ:R0/T[5h;4_p/u)n4Ms0^*`mQq@X=a31<>$1;"VmY%<F7Zr"uj!9V!S#>=-j1b#8jf'K`df/#`:K)l<^+.nX]%8Y':Hq(?]FfFisb\+lc3eA_K-Zn!fdMMPIcKk.p?YXPcZf17u?m`Bm.\8LRM@Bfhf6#b-7;<ijl4m>LRAPf)'SSHe_lR4@'&<l;[7d&ob`W9QK<\";D!JQ(PJf7`@`3VITa:$o:=hNhqP"I\mcj4s7k?`r]:g'rHCm[aL*6d46U$oFl0.BOit>o,1KN#?%RM<#%t%3R]PgQR'MH_8j8OBbj+uXs<etQc[De<0D+4E4;95(@KnM(9jEQa+h;/*Q^l[r<?DB/5qB%4@dKf~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .101961 .101961 rg
+n 0 828.8898 595.2756 13 re f*
+1 1 1 rg
+BT /F2 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 48.18898 833.3898 Tm (ADVANCED WATER SAFETY \227 Student Lesson Outline  Year 9-10) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 526.4881 833.3898 Tm (Page 4) Tj T* ET
+.101961 .101961 .101961 rg
+n 0 0 595.2756 10 re f*
+.227451 .352941 .431373 rg
+BT /F1 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 48.18898 3.5 Tm (Victorian Curriculum F-10 Version 2.0  |  HPE Year 9-10  |  lsv.com.au  |  royallifesaving.com.au  |  victoriancurriculum.vcaa.vic.edu.au) Tj T* ET
+Q
+q
+1 0 0 1 48.18898 744.8661 cm
+q
+.717647 .109804 .109804 rg
+n 0 28 498.8976 -28 re f*
+.101961 .101961 .101961 rg
+n 0 28 25.51181 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL 9.697906 0 Td (3) Tj T* -9.697906 0 Td ET
+Q
+Q
+q
+1 0 0 1 33.51181 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3.5 Tm /F2 10.5 Tf 14 TL (Social Determinants of Drowning Risk) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 740.6142 cm
+Q
+q
+1 0 0 1 50.18898 684.1142 cm
+q
+.941176 .956863 .972549 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Learning Intention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18 Tm /F1 9 Tf 13.5 TL (We are learning to analyse how social, cultural, and structural factors influence who drowns and why \227 moving beyond) Tj T* (individual to systemic explanations.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 679.8622 cm
+Q
+q
+1 0 0 1 50.18898 551.3622 cm
+q
+.980392 .988235 1 rg
+n 0 128.5 494.8976 -128.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 108 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Success Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 82.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 69 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can identify at least three social determinants of drowning risk and explain the specific mechanism by which each one) Tj T* (increases risk. [VCHPEP143]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 49.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can distinguish between individual explanations \(personal behaviour\) and structural explanations \(systemic factors\),) Tj T* (using real Victorian data. [VCHPEP143]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 16.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 3 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can propose three specific, practical actions a Victorian school could take to reduce CALD drowning disproportionality \227) Tj T* (with enough detail to implement. [VCHPEP147]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.3 w
+n 0 66 m 479.0551 66 l S
+n 0 33 m 479.0551 33 l S
+n 0 0 m 479.0551 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 128.5 l S
+n 0 128.5 m 494.8976 128.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 128.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 547.1102 cm
+Q
+q
+1 0 0 1 50.18898 490.6102 cm
+q
+1 .992157 .905882 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Key Vocabulary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 19 Tm /F1 8 Tf 13.5 TL (social determinants \267 structural factors \267 masculinity norms \267 socioeconomic status \267 health inequity \267 intersectionality \267 community) Tj T* (capacity \267 correlation) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.984314 .752941 .176471 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 486.3583 cm
+Q
+q
+1 0 0 1 50.18898 423.3583 cm
+q
+.941176 .956863 .972549 rg
+n 0 63 494.8976 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 42.5 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (End-of-Lesson Reflection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 27 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL (Exit: Name ONE social determinant a school CAN address and ONE it CANNOT. Why is that distinction important?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 17 cm
+Q
+q
+1 0 0 1 3 8 cm
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 9 m 476.8976 9 l S
+n 0 0 m 476.8976 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 63 l S
+n 0 63 m 494.8976 63 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 63 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 419.1063 cm
+Q
+q
+1 0 0 1 54.18898 410.6024 cm
+Q
+q
+1 0 0 1 48.18898 382.6024 cm
+q
+.415686 .105882 .603922 rg
+n 0 28 498.8976 -28 re f*
+.101961 .101961 .101961 rg
+n 0 28 25.51181 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL 9.697906 0 Td (4) Tj T* -9.697906 0 Td ET
+Q
+Q
+q
+1 0 0 1 33.51181 7 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F2 10.5 Tf 1 1 1 rg (Prevention Strategies & International Comparison) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 378.3504 cm
+Q
+q
+1 0 0 1 50.18898 321.8504 cm
+q
+.941176 .956863 .972549 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Learning Intention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18 Tm /F1 9 Tf 13.5 TL (We are learning to evaluate drowning prevention strategies against evidence and compare Australian approaches to) Tj T* (those used internationally.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 317.5984 cm
+Q
+q
+1 0 0 1 50.18898 202.5984 cm
+q
+.980392 .988235 1 rg
+n 0 115 494.8976 -115 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 94.5 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Success Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 69 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 69 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 5 Tm /F1 8.5 Tf 13.5 TL (I can evaluate five prevention strategies against evidence strength, target population, and key limitations. [VCHPEP144]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 49.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can compare the approaches of RLSSA, RLSS UK, and the American Red Cross, identifying at least one substantive) Tj T* (difference. [VCHPEP148]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 16.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 3 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can argue, with evidence from at least one primary source with URL, whether a specific international approach should be) Tj T* (adopted in Victoria. [VCHPEP148]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.3 w
+n 0 66 m 479.0551 66 l S
+n 0 33 m 479.0551 33 l S
+n 0 0 m 479.0551 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 115 l S
+n 0 115 m 494.8976 115 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 115 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 198.3465 cm
+Q
+q
+1 0 0 1 50.18898 155.3465 cm
+q
+1 .992157 .905882 rg
+n 0 43 494.8976 -43 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 22.5 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Key Vocabulary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL (evidence hierarchy \267 primary source \267 pool fencing \267 patrolled location \267 Float to Live \267 RLSSA \267 intervention \267 success metric) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.984314 .752941 .176471 RG
+.5 w
+n 0 0 m 0 43 l S
+n 0 43 m 494.8976 43 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 43 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 151.0945 cm
+Q
+q
+1 0 0 1 50.18898 88.09449 cm
+q
+.941176 .956863 .972549 rg
+n 0 63 494.8976 -63 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 42.5 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (End-of-Lesson Reflection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 27 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL (Exit: Which ONE prevention strategy has the strongest evidence? Which has the weakest? Defend your answer.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 17 cm
+Q
+q
+1 0 0 1 3 8 cm
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 9 m 476.8976 9 l S
+n 0 0 m 476.8976 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 63 l S
+n 0 63 m 494.8976 63 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 63 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 83.84252 cm
+Q
+q
+1 0 0 1 54.18898 75.33858 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+196.6 562.59 60 13.5 re
+f*
+0.039216 0.117647 0.239216 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 198.6 564.59 Tm
+(\133VCHPEP145\135) Tj
+T*
+ET
+Q
+
+
+endstream
 endobj
 19 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2894
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
-stream
-Gb"/)D/\IS&cV3*0aQ.U(K_*4n*HB-kHf6]3fRXM4p6!mXN?a7B>,d!;Mp#&ps/5h'ICN82N5G,"p\?VGI]N"R:kZMnM.9<+4Iug*8pbu^-?2E*10ENH'S]!1H:dBr-Da*S&GD\h9ThZ:uK6R'3S0H8)VG%jb/'_b_8[)oXb2f%eMr5\-%<De*3P@[>3djf';3_(=U;lY%tT?AWjsipqtYW?cON9i:D26EWMNee!%m,E:#V.>h2V!MAjcn;Iokn20C5R!Uu$*'uV>/^OsWER!dN.TpL+"^@)2j(I`.Er]-SWn-:?.0nqiqK&'VH6>\k-\%99eHhcj9bRNCb/h!2'R\G+Jn;(LXdN3PBP"Aq[Or&)m<0^.GXNBE8?Poq6V'Od3Z#"sJ!C!*ICs8UAA85g)AT%$-?WQ9WB:57s`L!lt%@<BOPb]+)/JHD]>d-WMi4abFI`=@XUN#FB<YV3HP+9B;$HN]j0e]u+m\@1Z'7gs0*5u=d,J7\ApUIJJTAs->A*C>F6ag$*@pFD&MJ/oKB@]S%BJ^Z_l"8<h@oLl4AfsAE`)[G)YoVd!,_a-"1.L"+g*/nR?q_G$>ER['N+7hM/^ZJ-g*m5]+!g[F#VHq!i#-nl^,2)h$GM4TE],"F89G:R+USS.pL90>/=UCt5GZQM4'MGdmjZuuR-0QO>8upP6P/5-Fp#;g_jI-qXOn&X^r=XHn\)I(Mbc>(@]spP^3ler0\V.[QL2[%6Wk\^$c-l-orbnh@mi(ZX:Ni^4bLX."@.OX6_i2!0+]4Lm';`l5#3SbN(gZ)o<SFWDk(sElOl2RD63r")c]s%,P\.Kk(%DF[<"j'aET:7:r^P=I(VAJ:/[sQdl!\m(*\l>R6X29T5oO_3eBf2B^ki6lQ+9NZ<?)u02fm66n^$2+PfA\`0+aB$ACnpQGtnG@m7jc;U?g)LO+h(a\Tk=L+Cbl>4Gk!b3IQha,p>:T.^FM(h&U!^l#eOp1"LB4-"+f/q,cF$a&,^R<Pp!_<!"_nkJ=a/_\)W]=gA;ESkgJ#(.!%P`HjqGb7EjgMW[7O!l4A4eg#;IHXT@$eSL]S*O\l47h)T7JgY[,j7KQY%0+<IIE6i-`]h,&CYKskbCR`UT!'!8eMAdIXgX"h`*H4HY;Ae]!K1]U$K4eX7KT3%eOJ!Co>&r81<,?>@^tS7rA$^5CNI2JU.I"q&5\gnYp16$Tq#'VPk5'b6iCf$^B*M]h)A'#/ZV%$#Yc+s0^g",o;u:8WEk;:d&,rZ,mI[[2n\/SdUoqVAH6RC"uX]fD)f45?Gm-kg,[[rV&Tr4%RiWQKs.t[6<,QfQpj1J`_-gOlHuD/Qj#,dRJ9!p#/:]Z'k.K#UX,:DHS'tHbRY@)Cm43k1B(/$efjP*p?L?n$-+CF'_D&S#feX21.]8HLjj4L<Wmbk;@#$:^1c84.]&r"s.k.o:Qo7/It%S6LXYVK(Z+GR\U,tk"C?01G1(tq9heY+ND,b'1]gf=:;TRjoXuX_BfrUS7eQ`ZZ]fG8=oK,9EjS#*1teAmRu:JIDURpk*&kBLE/`)dsZ9e6k-'";Y?1JJ;MLh2ttZ(NL`L</kX&%-FttQPaCDONrC1iemc)=hW.M+dF6qqPibZ"e+jGRZC^*Rb9+b@'0NtJAn9hjn36=--R!A#6K4AW"-N]>8)N9*a#8NW\:@Z:K'Nm_n7mlRFSG/CqXIfoA9^Ld[(.(dSF,EN0VcmF%oOXE&_4?4VFI.!@^FE]?B"LnA'5DID1&-LDmKiH-`6PejM3]FP,n6h3e/TpRDnopq(NBq2ThDM-o2/\!C=5$qXpC@A7=<N8+bU+imqAb1;ute=<J0@*(c\*RU2HR%.T$sF)!,7\LWSsi3u%7<@cpt=c'dZ**5HQN>SJ+XP88j8J4AEP6pMQNH+R%`^R503Ka;aEHZUfIMdTT)t%-M6gZu/G.I\"GL=0fqd?A7@:2OkL:qGB\/k(tMZVabXaiVbdSW"F[F;Ag1!N+lVtkIA.J?PdPP*g@ZD"?:O@^C`=L26&]Nqh>,!*[/&]W"_7TO)d.LSERC[*uf;n<Di/!dIj$XHW8XpZ;42/*ub50c#,kce(?A1?(C/4;9[mIm2r+Z:*,6*P>^b?N'KXn_cDp.s>DKY*B/i]6t>V\]Y<[/q"UnP0AtL>[<%#muHl$[49B^(?Le?;.r(@g.$p(R+fP!5B\fhqbN)PIa&pJO%u8%UB/^q^WaK#(P.DENHB'<Os;H\@OP'bW-H)6;Jdi<.%j_Nk^9h+Y(\i9.<n;+$$nb_piGYEFYVfS^>C[A:&fd*+(aI<9jTg]98Q.W"!SN=i5)R@Z-^"6'm:s9(#IKOK%EQdnC.+_5GeDl0]9BAjaHE84Z@F>*7f;]m2m='f'p7Y^="(89g,l$M>.[$_<A^W7&T2b4(@-_di:)[P]XI08S'/lW_Xn4Y5q)4E$rKpAO/XD1?J?^gYsO\YpoTVN_gPmUT%l-\O?#;GVsZ.$[cQYmD$M!K![4c0`8!cHM*Khd'^7^ltRf2AnE&mjg>iRq:[jFVcpp<7UkMim''&NdDFGH#CXX2a=%LPcZlSdsU!B4Q&'h,6CJ\:9bN`bRfB7F@cs&@uBMk<p2cb(s^70b`!u)PNDrl8,q1>TgkH$&DqG[A1j&"9N%gUYWtZ3W\bsIjT>2<B^EL6(*IIjTZRB0WpHj9Zl&neV19<C,qP^;d&Ub:_fgY2N:hKA+Q"nBU`8.RlT]XJ_ZmFg[QWk`0:VR;4U$i@8ADgQJ$>TbaM,=&$iZ[e^r)`2:CBmE`[s2'1RY?'I3liHXq(Wh*_!Ms*G:We6H,"k5^\CQqAoJDmA'-pUW5K(E6LH>=IZOn"RM(6LX.!Mrs:$?QXpA2b\hP6PNtT-/ib8jo_RCq4.M.aEHtl,+qtOd#Q=Vc;u~>endstream
 endobj
 20 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1639
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 22 0 R
+/F2 8 0 R
+/F3 10 0 R
+/F4 11 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ ]
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Length 9931
 >>
 stream
-Gatm:gMYb*&:O:SbbMYGBi-ffqbhZ;VqZ'mD%a<HJULrPg1DRd.4Nq(YTLVIh4;L0"cL1$8Ijp(k&=o\3;?"Es)A84`tG94'W;D_'i:OtYe5M*EqF-8W'd>A_YnDd*p%X7\Vr3X0aOM(\?d:\l@B_TH8@m1:ru_[>mO#0[Ef+oPiFrEr9tStPoAe1`3V[o)3!bI^WldB>J,a[oB"s=Y34u+jU_.,F_>Z!P_mHh\.HZY*'T]X.WYX[6Z<L^KK?lang?!G1j3\SVsFY+8:8G@U&?Wl/Kc$HH3+LfJ:c7C5gW_"5Z'1R,9O[KO*WUc_Zam]LK<VF'V5<EZehHQhdft?/U7h=V:ICSdkZPs$lH\bD'WTL&dR?%J3Ue"H8qpqe8.^X1;_4LWR[T<WE]bI[k_;$O1)0U\2-I[1$8ZMLe(.&)o-KN4R%rL)Mc3Y,[Q;b`0mG6`_L.iO=1B;ki)9[%K*.nDJ#*m7m:>n$;IO3NLs/6mErdI/4JBTTWMXu@+a+P]Z?p_b?FON5hpZk/"n!Vr>JSWc)=ND@=/+97@m3&C=7(e8uto&(C9CoaHm.?Ocm->PNhLPe#50Amg`'Ac"2Hg[haIKmi,S`1f.ukABNj!lqZes,PR**AdppjMFl)^Jnl)!#`24t<s@CAC'Q\,V6kJKX8,a&A$nXtK[kln95>%QCf.fp*NHM.$e9tmQMK*<>4Y(n3tZrUrj/rm!NiM0*pg.\lS&26*0D++!.?!6T/f2jZuI;Ppi,n7KRiG>mR3.fO,U':'0uuWc!q`044X%9kP"MT>;ZjS>Kt\Blfi_7kR:7WAp^cPfY,ITE!CdcL0Q"/n(pR7(LS9jWUiBJ.iVn.F93gsL@sA6kT"Bp+>0)iG.Qn2S/[Q?;QQJgV.UIXBrNn)(]C&Z^/.GfemoLLS%-PEE%Vf?'.kjbLBe?'MRC.ko<cWR/5W84)7A/fg__RKRI*).[mG#0fKFHla)`+p/.0T_R]=/I#\sR79GO[7)e=kM'sigulHdjC#T#/<:&pE#$EFXcec=7OZ$Ddi]!KAq5ZZUEQ,b>^m%Yk[L(Oa*d!`=<M8>pRE1Od>l._tV4>.mrL^AL+SPN^U+<"8Ff[`k&Yq1o*Kdh=N:R\gGqriIWdrYP?2dU(k&`GIgX1F>4HdI)NPJma??<nC]Y.[Y?f+_u='`)6+Biq:uL8TQ9-mWtpp_?9"mPEVCT\t,J$K,J>732i(!`'HIh$EOC^"7HPQ7Eif`C@mBWVK7<+N=H'-BVBcp9bsB4KmMI<Fo,\&V`[f6>&'_NEYQV\\$*-LU:$_-(9Qj@;L/,duWMgA't((mJStQYOVge1pN@s1F4a$H+M#tpU5-DCjB2nj#:lWT,(g,b*GJ*.heBhdL"604)gu>=eeZlarKH6fIOC:RU5E?<d+nq%+Cll!f'Q[#b9jh1-JfEAmFe/!Yb@3APn7'9Tr.Dh]>f#I-m;co*hOjQ9+*k;F"lNc&2Q3U1<]d1\MOIMH#TpST@:*mbL>ER2==?X'Lb_Sbrkmn?G`J+\Jq0Grs!?Qk'GQYnfp4<@or]ELRla=/+>3!m]9$Ok7fHFVDpo%T@9cN^E)O'P]"qU$+c*W%o+tcWE9ldEo((LqVLoL0$OaYHr$k\j\8L2f'?0#K`F@+9~>endstream
+q
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+.101961 .101961 .101961 rg
+n 0 828.8898 595.2756 13 re f*
+1 1 1 rg
+BT /F2 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 48.18898 833.3898 Tm (ADVANCED WATER SAFETY \227 Student Lesson Outline  Year 9-10) Tj T* ET
+BT /F1 6.5 Tf 7.8 TL ET
+BT 1 0 0 1 526.4881 833.3898 Tm (Page 5) Tj T* ET
+.101961 .101961 .101961 rg
+n 0 0 595.2756 10 re f*
+.227451 .352941 .431373 rg
+BT /F1 5.8 Tf 6.96 TL ET
+BT 1 0 0 1 48.18898 3.5 Tm (Victorian Curriculum F-10 Version 2.0  |  HPE Year 9-10  |  lsv.com.au  |  royallifesaving.com.au  |  victoriancurriculum.vcaa.vic.edu.au) Tj T* ET
+Q
+q
+1 0 0 1 48.18898 744.8661 cm
+q
+.862745 .14902 .14902 rg
+n 0 28 498.8976 -28 re f*
+.101961 .101961 .101961 rg
+n 0 28 25.51181 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL 9.697906 0 Td (5) Tj T* -9.697906 0 Td ET
+Q
+Q
+q
+1 0 0 1 33.51181 7 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F2 10.5 Tf 1 1 1 rg (Diving, Spinal Injuries & High-Risk Teenage Behaviour) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 740.6142 cm
+Q
+q
+1 0 0 1 50.18898 684.1142 cm
+q
+.941176 .956863 .972549 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Learning Intention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18 Tm /F1 9 Tf 13.5 TL (We are learning to analyse Australian data on diving-related spinal injury \227 identifying specific risk factors, population) Tj T* (groups, and locations \227 and to evaluate prevention messages using an evidence-based framework.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 679.8622 cm
+Q
+q
+1 0 0 1 50.18898 518.3622 cm
+q
+.980392 .988235 1 rg
+n 0 161.5 494.8976 -161.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 141 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Success Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 115.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 102 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can explain, using AIHW data, why unsafe diving accounts for 10% of spinal cord injuries and 20% of quadriplegia cases) Tj T* (in Australia, and identify the highest-risk age group. [VCHPEP144]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 82.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 69 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can analyse three 2024-25 Australian case studies \(Terrigal, Torquay, Bawley Beach\) and explain the specific) Tj T* (mechanism \227 not just the behaviour \227 that caused injury in each. [VCHPEP143]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 49.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can construct a structural explanation for why 95% of aquatic spinal injury patients are male, using the social) Tj T* (determinants framework. [VCHPEP143]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 16.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 3 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can evaluate the "Feet First, First Time" prevention message and propose a complementary strategy for a named) Tj T* (high-risk group with a SMART metric. [VCHPEP147]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.3 w
+n 0 99 m 479.0551 99 l S
+n 0 66 m 479.0551 66 l S
+n 0 33 m 479.0551 33 l S
+n 0 0 m 479.0551 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 161.5 l S
+n 0 161.5 m 494.8976 161.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 161.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 514.1102 cm
+Q
+q
+1 0 0 1 50.18898 457.6102 cm
+q
+1 .992157 .905882 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Key Vocabulary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 19 Tm /F1 8 Tf 13.5 TL (cervical spine \267 quadriplegia \267 spinal cord injury \267 sandbank \267 tidal depth variation \267 false confidence \267 inland waterway \267 remote rescue) Tj T* (delay \267 sediment \267 feet first first time \267 AIHW \267 RLSSA) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.984314 .752941 .176471 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 453.3583 cm
+Q
+q
+1 0 0 1 50.18898 376.8583 cm
+q
+.941176 .956863 .972549 rg
+n 0 76.5 494.8976 -76.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 56 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (End-of-Lesson Reflection) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 27 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 19 Tm /F1 8 Tf 13.5 TL (Exit: The highest incidence of diving spinal injury is in 10-14 year olds. What specific social and environmental factors explain this \227) Tj T* (and what would a targeted prevention response look like?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 3 17 cm
+Q
+q
+1 0 0 1 3 8 cm
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 9 m 476.8976 9 l S
+n 0 0 m 476.8976 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 76.5 l S
+n 0 76.5 m 494.8976 76.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 76.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 372.6063 cm
+Q
+q
+1 0 0 1 54.18898 364.1024 cm
+Q
+q
+1 0 0 1 48.18898 336.1024 cm
+q
+.901961 .317647 0 rg
+n 0 28 498.8976 -28 re f*
+.101961 .101961 .101961 rg
+n 0 28 25.51181 -28 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 7 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 3 Tm /F2 11 Tf 14 TL 9.697906 0 Td (6) Tj T* -9.697906 0 Td ET
+Q
+Q
+q
+1 0 0 1 33.51181 7 cm
+q
+BT 1 0 0 1 0 3.5 Tm 14 TL /F2 10.5 Tf 1 1 1 rg (Assessment Task \227 Planning, Drafting & Peer Review) Tj T* ET
+Q
+Q
+q
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 331.8504 cm
+Q
+q
+1 0 0 1 50.18898 275.3504 cm
+q
+.941176 .956863 .972549 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Learning Intention) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18 Tm /F1 9 Tf 13.5 TL (We are learning to synthesise our unit knowledge into an evidence-based communication product that argues a clear) Tj T* (position and proposes measurable outcomes.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 271.0984 cm
+Q
+q
+1 0 0 1 50.18898 156.0984 cm
+q
+.980392 .988235 1 rg
+n 0 115 494.8976 -115 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 94.5 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Success Criteria) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 69 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 55.5 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can produce a coherent draft including at least three credible sources with URLs and at least one accurate Victorian or) Tj T* (global statistic. [VCHPEP147]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 36 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 5 Tm /F1 8.5 Tf 13.5 TL (I can clearly identify my target audience and demonstrate my product is designed specifically for them. [VCHPEP148]) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 16.5 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 5.5 Tm /F1 8 Tf 13.5 TL /F4 8 Tf 13.5 TL (n) Tj /F1 8 Tf 13.5 TL T* ET
+Q
+Q
+q
+1 0 0 1 16.17323 3 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 18.5 Tm /F1 8.5 Tf 13.5 TL (I can use the assessment checklist to peer-review a classmate's draft and provide two specific, constructive written) Tj T* (suggestions. [VCHPEP147]) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.3 w
+n 0 52.5 m 479.0551 52.5 l S
+n 0 33 m 479.0551 33 l S
+n 0 0 m 479.0551 0 l S
+Q
+Q
+Q
+q
+1 J
+1 j
+.784314 .847059 .909804 RG
+.5 w
+n 0 0 m 0 115 l S
+n 0 115 m 494.8976 115 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 115 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 151.8465 cm
+Q
+q
+1 0 0 1 50.18898 95.34646 cm
+q
+1 .992157 .905882 rg
+n 0 56.5 494.8976 -56.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 8 36 cm
+q
+.039216 .117647 .239216 rg
+BT 1 0 0 1 0 4.5 Tm /F2 9 Tf 13.5 TL (Key Vocabulary) Tj T* ET
+Q
+Q
+q
+1 0 0 1 8 7 cm
+q
+.227451 .352941 .431373 rg
+BT 1 0 0 1 0 19 Tm /F1 8 Tf 13.5 TL (Option A \227 Policy Brief \(600-800 words to Minister\) | Option B \227 Campaign \(target one high-risk group\) | Option C \227 School Audit) Tj T* (\(advanced\)) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.984314 .752941 .176471 RG
+.5 w
+n 0 0 m 0 56.5 l S
+n 0 56.5 m 494.8976 56.5 l S
+n 0 0 m 494.8976 0 l S
+n 494.8976 0 m 494.8976 56.5 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 91.09449 cm
+Q
+ 
+
+Q
+
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+215.5 529.59 60 13.5 re
+f*
+0.039216 0.117647 0.239216 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 217.5 531.59 Tm
+(\133VCHPEP145\135) Tj
+T*
+ET
+1 1 1 rg
+n
+130.5 219.79 60 13.5 re
+f*
+0.039216 0.117647 0.239216 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 132.5 221.79 Tm
+(\133VCHPEP148\135) Tj
+T*
+ET
+1 1 1 rg
+n
+122.4 167.29 60 13.5 re
+f*
+0.039216 0.117647 0.239216 rg
+BT
+/F1-0 8.5 Tf
+10.2 TL
+ET
+BT
+1 0 0 1 124.4 169.29 Tm
+(\133VCHPEP144\135) Tj
+T*
+ET
+Q
+
+
+endstream
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/Contents 24 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 14 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+24 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1639
+>>
+stream
+Gatm:gMYb*&:O:SbbMYGBi-ffqbhZ;VqZ'mD%a<HJULrPg1DRd.4Nq(YTLVIh4;L0"cL1$8Ijp(k&=o\3;?"Es)A84`tG94'W;D_'i:OtYe5M*EqF-8W'd>A_YnDd*p%X7\Vr3X0aOM(\?d:\l@B_TH8@m1:ru_[>mO#0[Ef+oPiFrEr9tStPoAe1`3V[o)3!bI^WldB>J,a[oB"s=Y34u+jU_.,F_>Z!P_mHh\.HZY*'T]X.WYX[6Z<L^KK?lang?!G1j3\SVsFY+8:8G@U&?Wl/Kc$HH3+LfJ:c7C5gW_"5Z'1R,9O[KO*WUc_Zam]LK<VF'V5<EZehHQhdft?/U7h=V:ICSdkZPs$lH\bD'WTL&dR?%J3Ue"H8qpqe8.^X1;_4LWR[T<WE]bI[k_;$O1)0U\2-I[1$8ZMLe(.&)o-KN4R%rL)Mc3Y,[Q;b`0mG6`_L.iO=1B;ki)9[%K*.nDJ#*m7m:>n$;IO3NLs/6mErdI/4JBTTWMXu@+a+P]Z?p_b?FON5hpZk/"n!Vr>JSWc)=ND@=/+97@m3&C=7(e8uto&(C9CoaHm.?Ocm->PNhLPe#50Amg`'Ac"2Hg[haIKmi,S`1f.ukABNj!lqZes,PR**AdppjMFl)^Jnl)!#`24t<s@CAC'Q\,V6kJKX8,a&A$nXtK[kln95>%QCf.fp*NHM.$e9tmQMK*<>4Y(n3tZrUrj/rm!NiM0*pg.\lS&26*0D++!.?!6T/f2jZuI;Ppi,n7KRiG>mR3.fO,U':'0uuWc!q`044X%9kP"MT>;ZjS>Kt\Blfi_7kR:7WAp^cPfY,ITE!CdcL0Q"/n(pR7(LS9jWUiBJ.iVn.F93gsL@sA6kT"Bp+>0)iG.Qn2S/[Q?;QQJgV.UIXBrNn)(]C&Z^/.GfemoLLS%-PEE%Vf?'.kjbLBe?'MRC.ko<cWR/5W84)7A/fg__RKRI*).[mG#0fKFHla)`+p/.0T_R]=/I#\sR79GO[7)e=kM'sigulHdjC#T#/<:&pE#$EFXcec=7OZ$Ddi]!KAq5ZZUEQ,b>^m%Yk[L(Oa*d!`=<M8>pRE1Od>l._tV4>.mrL^AL+SPN^U+<"8Ff[`k&Yq1o*Kdh=N:R\gGqriIWdrYP?2dU(k&`GIgX1F>4HdI)NPJma??<nC]Y.[Y?f+_u='`)6+Biq:uL8TQ9-mWtpp_?9"mPEVCT\t,J$K,J>732i(!`'HIh$EOC^"7HPQ7Eif`C@mBWVK7<+N=H'-BVBcp9bsB4KmMI<Fo,\&V`[f6>&'_NEYQV\\$*-LU:$_-(9Qj@;L/,duWMgA't((mJStQYOVge1pN@s1F4a$H+M#tpU5-DCjB2nj#:lWT,(g,b*GJ*.heBhdL"604)gu>=eeZlarKH6fIOC:RU5E?<d+nq%+Cll!f'Q[#b9jh1-JfEAmFe/!Yb@3APn7'9Tr.Dh]>f#I-m;co*hOjQ9+*k;F"lNc&2Q3U1<]d1\MOIMH#TpST@:*mbL>ER2==?X'Lb_Sbrkmn?G`J+\Jq0Grs!?Qk'GQYnfp4<@or]ELRla=/+>3!m]9$Ok7fHFVDpo%T@9cN^E)O'P]"qU$+c*W%o+tcWE9ldEo((LqVLoL0$OaYHr$k\j\8L2f'?0#K`F@+9~>
+endstream
 endobj
 xref
-0 21
+0 25
 0000000000 65535 f 
-0000000061 00000 n 
-0000000122 00000 n 
-0000000229 00000 n 
-0000000341 00000 n 
-0000000446 00000 n 
-0000000651 00000 n 
-0000000734 00000 n 
-0000000939 00000 n 
-0000001144 00000 n 
-0000001349 00000 n 
-0000001555 00000 n 
-0000001761 00000 n 
-0000001831 00000 n 
-0000002152 00000 n 
-0000002244 00000 n 
-0000003650 00000 n 
-0000006717 00000 n 
-0000008290 00000 n 
-0000011022 00000 n 
-0000014008 00000 n 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000148 00000 n 
+0000000197 00000 n 
+0000000474 00000 n 
+0000003881 00000 n 
+0000003988 00000 n 
+0000004095 00000 n 
+0000004207 00000 n 
+0000004312 00000 n 
+0000004418 00000 n 
+0000004502 00000 n 
+0000004704 00000 n 
+0000007772 00000 n 
+0000007836 00000 n 
+0000008038 00000 n 
+0000009612 00000 n 
+0000009880 00000 n 
+0000019633 00000 n 
+0000019741 00000 n 
+0000020009 00000 n 
+0000029993 00000 n 
+0000030101 00000 n 
+0000030303 00000 n 
 trailer
 <<
-/ID 
-[<bbea116731a21d28882618bf8e06d64a><bbea116731a21d28882618bf8e06d64a>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 13 0 R
-/Root 12 0 R
-/Size 21
+/Size 25
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-15739
+32035
 %%EOF
